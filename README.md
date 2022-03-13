@@ -4,7 +4,7 @@ This app works as bridge to tranform GCE VPC Flow Logs into FastNetMon's Tera fl
 
 # Build process
 
-go build
+```go build```
 
 # Run
 
