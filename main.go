@@ -133,7 +133,7 @@ func main() {
 	})
 
 	if err != nil {
-		log.Fatalf("Cannot consume stream", err)
+		log.Fatalf("Cannot consume stream %v", err)
 	}
 }
 
